@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1464335123 source:c:\users\pratyush prakash\documents\sumitr\main.cpp
+	<cstdio>
+	<iostream>
+	<algorithm>
+	<string.h>
+	<vector>
+	<set>
+	<map>
+	<queue>
+	<list>
+	<math.h>
+

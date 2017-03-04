@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1472739644 source:c:\users\pratyush prakash\documents\xenny and random cubes\main.cpp
+	<cstdio>
+	<iostream>
+	<algorithm>
+	<string.h>
+	<vector>
+	<set>
+	<map>
+	<queue>
+	<list>
+	<math.h>
+

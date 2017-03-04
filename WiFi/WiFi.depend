@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1466276577 source:c:\users\pratyush prakash\documents\wifi\main.cpp
+	<cstdio>
+	<iostream>
+	<algorithm>
+	<string.h>
+	<vector>
+	<set>
+	<map>
+	<queue>
+	<list>
+	<math.h>
+
