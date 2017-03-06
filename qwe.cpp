@@ -1,5 +1,13 @@
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
 //Merge conflicts in text_edits
 
+=======
+//Stashing 1
+>>>>>>> Stashed changes
+=======
+//Stashing 1
+>>>>>>> Stashed changes
 
 #include <cstdio>
 #include <iostream>
