@@ -1,4 +1,5 @@
-//Merge conflict in Master
+//Merge conflicts in text_edits
+
 
 #include <cstdio>
 #include <iostream>

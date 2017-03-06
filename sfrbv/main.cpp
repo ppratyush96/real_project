@@ -10,7 +10,7 @@
 #include <math.h>
 
 #define ll unsigned long long
-#define maxN 100000
+#define maxNo 100000
 #define maxVal 100000000
 #define minVal -100000000
 #define mod 1000000007LL
